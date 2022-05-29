@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rayjerry
 - 👀 I’m interested in html, javascript,css,solidity
 - 🌱 I’m currently learning javascript,solidity
-- 📫 How to reach me here or email
+- 📫 You can reach me here or email
 
 <!---
 rayjerry/rayjerry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
